@@ -1,7 +1,7 @@
 ## Olá! Sou a Hiorrana 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 Estudante de Ciências da Computação
+- 🌱 Atualmente aprendendo Java e SQL
   
 <div style="display: inline_block"><br> 
   <img align="center" alt="Hio-C" height="30" width="40"
